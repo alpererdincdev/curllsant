@@ -12,3 +12,5 @@ Bu proje yapım aşamasındadır. Geliştirme sürecini bu repo üzerinden gerç
 */
 
 console.log('Hello World');
+
+console.log('...');
